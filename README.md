@@ -13,4 +13,4 @@ papers in *Imaging Neuroscience*, *European Journal of Neuroscience*, and *eNeur
   xDAWN + Riemannian geometry vs. EEGNet, decision-level aggregation with confidence.
 - [ProjectDhyaanBK1Programs](https://github.com/ankanbiswas022/ProjectDhyaanBK1Programs) — analysis code for the meditation EEG cohort (N>100), *Imaging Neuroscience* 2026.
 
-[Google Scholar](https://scholar.google.com/citations?user=oG28KRIAAAAJ) · [LinkedIn](https://www.linkedin.com/in/ankan-biswas-45357685/) · ankanbiswas022@gmail.com
+[Google Scholar](https://scholar.google.com/citations?user=oG28KRIAAAAJ) · [LinkedIn](https://www.linkedin.com/in/ankan-biswas-45357685/) · ankanbiswas0804@gmail.com
